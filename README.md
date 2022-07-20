@@ -5,8 +5,8 @@
 <!-- Social Badges -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanalazad/)
 [![Stackoverflow Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/14716699/adnan-azad)
-[![Wordpress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://adnanaazad.wordpress.com/)
-[![Website Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/adnanalazad/)
+[![Wordpress Badge](https://img.shields.io/badge/Wordpress-21759B&logo=wordpress&logoColor=white)](https://adnanaazad.wordpress.com/)
+
 
 
 ## Technical Stack and Skill-Sets
