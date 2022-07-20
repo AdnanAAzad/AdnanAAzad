@@ -4,7 +4,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanalazad/)
-[![Stackoverflow Badge](https://aleen42.github.io/badges?style=for-the-badge/src/stackoverflow.svg)](https://stackoverflow.com/users/14716699/adnan-azad)
+[![Stackoverflow Badge](https://aleen42.github.io/badges/src/stackoverflow.svg&style=?style=for-the-badge)](https://stackoverflow.com/users/14716699/adnan-azad)
 [![Wordpress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://adnanaazad.wordpress.com/)
 
 
