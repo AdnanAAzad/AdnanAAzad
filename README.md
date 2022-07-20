@@ -10,12 +10,14 @@
 
 ## Technical Stack and Skill-Sets
 Programming Languages <br >
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c++)
+![](https://img.shields.io/badge/Code-C#-informational?style=for-the-badge&logo=c#)
+![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c)
 
 
 Front-End Development Stack <br/>
-
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5)
