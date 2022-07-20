@@ -17,7 +17,7 @@ Programming Languages <br >
 Front-End Development Stack <br/>
 [](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=appveyor&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=appveyor&logo=css3&Color=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML5?style=for-the-badge&logo=appveyor&logo=htmlColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&Color=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML5?style=for-the-badge&logo=htmlColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
