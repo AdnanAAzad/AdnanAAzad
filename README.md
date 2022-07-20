@@ -4,9 +4,9 @@
 
 <!-- Social Badges -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanalazad/)
-[![Gmail Badge]](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![Stackoverflow Badge]](https://aleen42.github.io/badges/src/stackoverflow.svg)
-[![Wordpress Badge]](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+[![Stackoverflow Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)]
+[![Wordpress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://adnanaazad.wordpress.com/)
 [![Website Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/adnanalazad/)
 
 
