@@ -11,7 +11,7 @@
 ## Technical Stack and Skill-Sets
 Programming Languages <br >
 [](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=reactjs)
 
 
 Front-End Development Stack <br/>
