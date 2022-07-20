@@ -3,7 +3,7 @@
 
 
 <!-- Social Badges -->
-[![Website Badge](https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://adnanaazad.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website?style=for-the-badge&logo=linkedin&logoColor=white)](https://adnanaazad.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnanalazad/)
 [![Wordpress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://adnanaazad.wordpress.com/)
 [![Stackoverflow Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/14716699/adnan-azad)
