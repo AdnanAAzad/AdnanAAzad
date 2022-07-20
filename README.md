@@ -20,4 +20,4 @@ Front-End Development Stack <br/>
 
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5)
-![](https://img.shields.io/badge/Code-JavaScript ES6-informational?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Code-JavaScript&20%ES6-informational?style=for-the-badge&logo=javascript)
