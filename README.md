@@ -8,7 +8,7 @@
 [![Wordpress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://adnanaazad.wordpress.com/)
 [![Stackoverflow Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/14716699/adnan-azad)
 
-[![Udemy Badge]https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white](https://www.udemy.com/user/adnan-azad-5/)
+[![Udemy Badge]https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/adnan-azad-5/)
 
 
 
