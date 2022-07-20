@@ -12,8 +12,8 @@
 Programming Languages <br >
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c++)
-![](https://img.shields.io/badge/Code-C#-informational?style=for-the-badge&logo=c-sharp)
+![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B)
+![](https://img.shields.io/badge/Code-C#-informational?style=for-the-badge&logo=csharp)
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c)
 
 
