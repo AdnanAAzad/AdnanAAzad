@@ -22,7 +22,7 @@ Programming Languages <br >
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-Front-End Development Stack <br/>
+#### Front-End Development Stack <br/>
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
